@@ -1,0 +1,25 @@
+﻿  robot.cpp
+  glm.cpp
+  Generating Code...
+robot.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+robot.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+robot.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z)
+robot.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+robot.obj : error LNK2019: unresolved external symbol __imp___glutCreateMenuWithExit referenced in function glutCreateMenu_ATEXIT_HACK
+robot.obj : error LNK2019: unresolved external symbol __imp_glutAddMenuEntry referenced in function "void __cdecl attachMenu(void)" (?attachMenu@@YAXXZ)
+robot.obj : error LNK2019: unresolved external symbol __imp_glutAttachMenu referenced in function "void __cdecl attachMenu(void)" (?attachMenu@@YAXXZ)
+robot.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+robot.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+robot.obj : error LNK2019: unresolved external symbol __imp_glutWireSphere referenced in function "void __cdecl create_object(void)" (?create_object@@YAXXZ)
+robot.obj : error LNK2019: unresolved external symbol __imp_glutSolidCube referenced in function "void __cdecl create_object(void)" (?create_object@@YAXXZ)
+C:\glut\lib\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\x64\Debug\robotic.exe : fatal error LNK1120: 20 unresolved externals

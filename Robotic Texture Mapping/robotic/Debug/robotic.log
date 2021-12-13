@@ -1,0 +1,11 @@
+﻿  robot.cpp
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,57): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,102): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,145): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,189): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,234): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,279): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,328): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,373): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\robotic\robot.cpp(27,418): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+  robotic.vcxproj -> D:\SBME\Third Year\2022\Second Semester\Computer Graphics\Sections\Final Task\cg-task3-team18\Part1\Debug\robotic.exe
